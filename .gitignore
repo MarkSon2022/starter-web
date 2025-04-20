@@ -1,0 +1,4 @@
+-- Specific File: MyFile.txt
+-- File Pattern: *.file
+-- Folder: theFolder/
+untrack.txt
