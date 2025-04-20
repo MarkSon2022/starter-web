@@ -2,3 +2,4 @@
 -- File Pattern: *.file
 -- Folder: theFolder/
 untrack.txt
+log/
